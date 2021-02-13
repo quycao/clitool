@@ -1,0 +1,10 @@
+{
+    "name": "clitool",
+    "image": "quycao/golang:alpine",
+    "extensions": [
+        "golang.go"
+    ],
+    "appPort": [
+        "8001:8001"
+    ]
+}
